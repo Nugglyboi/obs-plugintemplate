@@ -33,13 +33,13 @@
     },
     "platformConfig": {
         "macos": {
-            "bundleId": "com.example.plugintemplate-for-obs"
+            "bundleId": "com.drewturner.obsscoreboard"
         }
     },
-    "name": "plugintemplate-for-obs",
-    "displayName": "Plugin Template for OBS",
-    "version": "1.0.0",
-    "author": "Your Name Here",
-    "website": "https://example.com",
-    "email": "me@example.com"
+    "name": "obs-scoreboard",
+    "displayName": "OBS Scoreboard",
+    "version": "0.1.0",
+    "author": "Drew Turner",
+    "website": "https://github.com/YOUR_GITHUB_USERNAME/obs-scoreboard",
+    "email": "YOUR_EMAIL@example.com"
 }
